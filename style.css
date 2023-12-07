@@ -1,0 +1,25 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+#random-choice{
+    width: 240px;
+    height: 240px;
+    margin-top: 10px;
+    border: 1px solid black;
+}
+#your-choice{
+    width: 240px;
+    height: 240px;
+    
+    margin-top: 10px;
+    border: 1px solid black;
+}#choices{
+    width: 240px;
+    height: 80px;
+    margin: 0 auto;
+    margin-top: 10px;
+}#choices img{
+    width: 80px;
+    height: 80px;
+}
